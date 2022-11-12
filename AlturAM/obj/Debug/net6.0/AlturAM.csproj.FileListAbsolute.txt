@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\bin\Debug\net6.0\AlturAM.exe
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\bin\Debug\net6.0\AlturAM.deps.json
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\bin\Debug\net6.0\AlturAM.runtimeconfig.json
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\bin\Debug\net6.0\AlturAM.dll
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\bin\Debug\net6.0\AlturAM.pdb
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.dll
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\refint\AlturAM.dll
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.pdb
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\AlturAM.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\AlturAM\AlturAM\obj\Debug\net6.0\ref\AlturAM.dll

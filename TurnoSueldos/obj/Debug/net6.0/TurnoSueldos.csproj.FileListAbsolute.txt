@@ -1,0 +1,15 @@
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.csproj.AssemblyReference.cache
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.AssemblyInfoInputs.cache
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.AssemblyInfo.cs
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.csproj.CoreCompileInputs.cache
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\bin\Debug\net6.0\TurnoSueldos.exe
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\bin\Debug\net6.0\TurnoSueldos.deps.json
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\bin\Debug\net6.0\TurnoSueldos.runtimeconfig.json
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\bin\Debug\net6.0\TurnoSueldos.dll
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\bin\Debug\net6.0\TurnoSueldos.pdb
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.dll
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\refint\TurnoSueldos.dll
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.pdb
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\TurnoSueldos.genruntimeconfig.cache
+C:\Users\gtm32\source\repos\TurnoSueldos\TurnoSueldos\obj\Debug\net6.0\ref\TurnoSueldos.dll
